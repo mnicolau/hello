@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Hello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Hello 1</string>
+    <string name="lblNomCognoms">Nom i cognoms:</string>
+    <string name="lblEmail">Correu electrònic:</string>
+    <string name="lblTelefon">Telèfon:</string>
+    <string name="btnHello">Hola...</string>
+    <string name="title_activity_second">Hello 2</string>
+    <string name="btnTrucar">Trucar</string>
+    <string name="lblTextActivity2"></string>
+    <string name="btnEnviar">Enviar correu...</string>
+
+</resources>
