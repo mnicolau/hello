@@ -1,4 +1,5 @@
-android_2012_2013
+Hello
 =================
 
-Exemples d'Android curs 2012-2013
+Exemples d'Android que mostra com obrir una Actitivy a través d'un Intent i com cridar Intents a través d'ACTIONS 
+(trucar i enviar mail)
